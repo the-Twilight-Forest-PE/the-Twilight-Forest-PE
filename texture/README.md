@@ -19,10 +19,10 @@ the-Twilight-Forest-PE{
 　　 ・  
 　　 ・  
    }  
-   ・gui{
-   　・
-   　・
-   　・
-    }
+   ・gui{  
+   　・  
+   　・  
+   　・  
+    }  
   }  
 }  
