@@ -12,17 +12,17 @@ the-Twilight-Forest-PE{
 　 ・items{  
 　　 ・  
 　　 ・  
-　　 ・  
+　　 ・  
 　　}  
 　 ・blocks{  
 　　 ・  
 　　 ・  
-　　 ・  
+　　 ・  
 　　}  
    ・gui{  
    　・  
    　・  
-   　・  
+   　・  
 　　}  
 　}  
 }  
