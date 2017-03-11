@@ -13,16 +13,16 @@ the-Twilight-Forest-PE{
 　　 ・  
 　　 ・  
 　　 ・  
-　　}  
+　　}  
 　 ・blocks{  
 　　 ・  
 　　 ・  
 　　 ・  
-　　}  
+　　}  
    ・gui{  
    　・  
    　・  
    　・  
-　　}  
-　}  
+　　}  
+　}  
 }  
