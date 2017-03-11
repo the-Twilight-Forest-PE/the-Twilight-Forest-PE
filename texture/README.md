@@ -4,24 +4,20 @@ modで使用するテクスチャを保存します。
 
 *構成*  
 the-Twilight-Forest-PE{  
-  
  ・manifest.json  
  ・pack_icon.png  
-  
  ・textures{  
-  
 　 ・terrain_texture.json  
 　 ・item_texture.json  
-  
 　 ・items{  
 　　 ・  
 　　 ・  
 　　 ・  
-    }  
+   }  
 　 ・blocks{  
 　　 ・  
 　　 ・  
 　　 ・  
-    }  
+   }  
   }  
 }  
