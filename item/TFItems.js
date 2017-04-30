@@ -1,4 +1,3 @@
-取り敢えず個別で送りまする
 const Id={
 	"alphaFur":1024,
 	"annihilateParticle":1025,
